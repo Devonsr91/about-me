@@ -4,7 +4,7 @@ age = 35
 city = "East Hartford"
 current_job = "Commercial Driver" 
 previous_career = "General Manager" 
-reason_for_learning = "I want a new career and i am into tech so this is perfect." 
+reason_for_learning = "I want a new career and I am into tech so this is perfect." 
 fun_fact = "I fix cars"
 # This section stores my personal information
 # This section prints my student profile.
