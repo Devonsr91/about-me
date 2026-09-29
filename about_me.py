@@ -1,4 +1,4 @@
-First_name = "Devon"
+first_name = "Devon"
 last_name = "Maynard"
 age = 35
 city = "East Hartford"
@@ -12,7 +12,7 @@ fun_fact = "I fix cars"
 print("=" * 40)
 print("         Student Profile")
 print("=" * 40)
-print(f"Name:       {First_name} {last_name}")
+print(f"Name:       {first_name} {last_name}")
 print(f"Age:        {age}")
 print(f"City:       {city}")
 print(f"Current Job: {current_job}")
